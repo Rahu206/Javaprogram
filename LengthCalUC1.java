@@ -14,7 +14,6 @@ public class LengthCalUC1 {
 
 	         System.out.println("Enter x2point");
                  x2=scanner.nextInt();
-
 	         System.out.println("Enter y2 point");
                  y2=scanner.nextInt();
 		 dis=Math.sqrt((x2-x1)*(x2-x1) + (y2-y1)*(y2-y1));
